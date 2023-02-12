@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://reactapp-928iz6ux6-sharan1238888.vercel.app).
+Demo view click [Open](https://reactapp-928iz6ux6-sharan1238888.vercel.app).
 
 ## Available Scripts
 
